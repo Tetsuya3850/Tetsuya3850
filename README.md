@@ -1,6 +1,6 @@
 ### Hi 👋
 * I currently work at PayPay as a Senior Software Engineer.
-* My main programming languages are Java, Kotlin, and a litle Scala.
+* My main programming languages are Java, Kotlin, and a little Scala.
 * Experienced in the Spring Framework Ecosystem.
 * Built software with DB technologies such as MySQL and DynamoDB.
 * Utilized Kafka as a streaming platform.
