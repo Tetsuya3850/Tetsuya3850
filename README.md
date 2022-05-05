@@ -3,4 +3,4 @@ Main tech stack are Java, Spring, MySQL, DynamoDB, Kafka, and Kubernetes.
 Owns tech lead experience to grow a team up to 10 members and 6 nationalities over 1.5 years.  
 Fluent in both English (TOEFL iBT 108) and Japanese.  
 Earned Bachelor and Master degree from The University of Tokyo.  
-A lifelong learner. [ref](https://github.com/Tetsuya3850/daily-learning-log)
+A lifelong learner.
