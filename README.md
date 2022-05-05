@@ -1,5 +1,5 @@
 ### Hi 👋
-I currently work at [PayPay](https://about.paypay.ne.jp/career/en/) (Japan's No.1 mobile fintech application) as a Senior Software Engineer. \
+I currently work at [PayPay](https://about.paypay.ne.jp/career/en/) (Japan's No.1 mobile fintech application) as a Senior Software Engineer.  
 * My tech stack are as follows
 * 
 *   main programming languages are Java, Kotlin, and a little Scala.
