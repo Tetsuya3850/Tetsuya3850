@@ -1,4 +1,4 @@
-Currently work at [PayPay](https://about.paypay.ne.jp/career/en/) (Japan's No.1 mobile payment application) as a Senior Software Engineer.  
+Currently work at [PayPay](https://paypay.ne.jp/) (Japan's No.1 mobile payment application) as a Senior Software Engineer.  
 Main tech stacks are Java, Spring, MySQL, DynamoDB, Kafka, and Kubernetes.  
 Owns tech lead experience to grow a team up to 10 engineers from 6 countries.  
 Fluent in both English and Japanese.  
